@@ -213,6 +213,7 @@ footer nav a {
     flex-basis: 45%;
     justify-content: flex-start;
     margin-bottom: 50px;
+    border-bottom: 1px black dashed;
 }
 .middle-content-about button {
     width: 150px;
@@ -223,8 +224,16 @@ footer nav a {
     text-align: center;
     margin-left: 0px;
     margin-top: 15px;
+    margin-bottom: 20px;
+
 }
 .middle-content-about h2 {
     padding-bottom: 12px;
     padding-top: 10px;
+}
+.about-page {
+    border-bottom: 1px black dashed;
+}
+.about-page p {
+    margin-bottom: 20px;
 }
