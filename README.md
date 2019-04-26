@@ -34,6 +34,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is when you use semantic elements throoughout your HTML, these are tags that have more meaning/importance to them. We see tags such as <section> <nav> and many more. They are easy for other devs to recognize and give more purpose rather than using a div and class for every element.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
 3. What are the 4 areas of the box model?
