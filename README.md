@@ -38,11 +38,19 @@ Semantic HTML is when you use semantic elements throoughout your HTML, these are
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+Displaying as a block can be taking kind of literal, a block that takes up an area of the webpage that takes up the width of the page and will force the next element to start on the next avaible line. Displaying inline though will only take up the user given amount of space, will allow other items to sit on the same line with it. 
+
 3. What are the 4 areas of the box model?
+
+content>padding>border>margin
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+align-items will follow a vertical axis, unless the element is put in a column it will follow a horizontal axis.
+
 5. Explain why git is valuable to a team of developers.
+
+Git is a valuable tool because it allows us to easily share, update, secure and return to code. I just started using SSH and can see the extra secuirty in use already, being able to use git HEAD and go back to older code is amazing and being able to share the file from the terminal is great. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
